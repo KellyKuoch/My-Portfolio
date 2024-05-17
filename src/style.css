@@ -1,0 +1,45 @@
+/* style.css */
+.header {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .header .profile-image {
+    width: 80%;
+    height: auto;
+    display: block;
+    max-width: 200px;
+    margin: 0 auto;
+  }
+  
+  .tagline {
+    font-size: 1.2em;
+    color: #777;
+  }
+  
+  .navigation {
+    margin-top: 20px;
+  }
+  
+  .navigation a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .about-me {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer {
+    text-align: center;
+    padding: 10px;
+    background: #f1f1f1;
+  }
+  
+  .footer p {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  

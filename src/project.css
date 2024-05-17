@@ -1,0 +1,61 @@
+/* project.css */
+.projects-container {
+    padding: 20px;
+  }
+  
+  .card-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .card-item {
+    width: 300px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .project-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .project-info {
+    padding: 10px;
+  }
+  
+  .tag {
+    display: inline-block;
+    padding: 5px;
+    margin: 5px 0;
+    border-radius: 3px;
+    background: #007bff;
+    color: #fff;
+  }
+  
+  .tag-developer {
+    background: #28a745;
+  }
+  
+  .tag-editor {
+    background: #17a2b8;
+  }
+  
+  .tag-designer {
+    background: #ffc107;
+  }
+  
+  .project-title {
+    font-size: 1.5em;
+    margin: 10px 0;
+  }
+  
+  .project-description {
+    font-size: 1em;
+    color: #555;
+  }
+  
